@@ -1,0 +1,41 @@
+[0.450s] Invoking command in '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/src/control_turtlebot3': PYTHONPATH=/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/prefix_override:/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build install --record /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log --single-version-externally-managed install_data
+[0.616s] running egg_info
+[0.616s] creating ../../build/control_turtlebot3/control_turtlebot3.egg-info
+[0.616s] writing ../../build/control_turtlebot3/control_turtlebot3.egg-info/PKG-INFO
+[0.617s] writing dependency_links to ../../build/control_turtlebot3/control_turtlebot3.egg-info/dependency_links.txt
+[0.617s] writing entry points to ../../build/control_turtlebot3/control_turtlebot3.egg-info/entry_points.txt
+[0.617s] writing requirements to ../../build/control_turtlebot3/control_turtlebot3.egg-info/requires.txt
+[0.617s] writing top-level names to ../../build/control_turtlebot3/control_turtlebot3.egg-info/top_level.txt
+[0.617s] writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[0.618s] reading manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[0.619s] writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[0.619s] running build
+[0.619s] running build_py
+[0.619s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build
+[0.619s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib
+[0.620s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+[0.620s] copying control_turtlebot3/__init__.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+[0.620s] copying control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+[0.620s] copying control_turtlebot3/kill_robot.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+[0.620s] running install
+[0.620s] running install_lib
+[0.621s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+[0.621s] copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/__init__.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+[0.621s] copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+[0.621s] copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/kill_robot.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+[0.621s] byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/__init__.py to __init__.cpython-310.pyc
+[0.622s] byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/control.py to control.cpython-310.pyc
+[0.622s] byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/kill_robot.py to kill_robot.cpython-310.pyc
+[0.623s] running install_data
+[0.623s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/ament_index
+[0.623s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/ament_index/resource_index
+[0.623s] creating /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/ament_index/resource_index/packages
+[0.623s] copying resource/control_turtlebot3 -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/ament_index/resource_index/packages
+[0.623s] copying package.xml -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/control_turtlebot3
+[0.623s] running install_egg_info
+[0.624s] Copying ../../build/control_turtlebot3/control_turtlebot3.egg-info to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3-0.0.0-py3.10.egg-info
+[0.625s] running install_scripts
+[0.642s] Installing control script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+[0.642s] Installing kill_robot script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+[0.642s] writing list of installed files to '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log'
+[0.661s] Invoked command in '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/src/control_turtlebot3' returned '0': PYTHONPATH=/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/prefix_override:/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build install --record /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log --single-version-externally-managed install_data

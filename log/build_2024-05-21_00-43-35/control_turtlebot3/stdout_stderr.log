@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/control_turtlebot3/control_turtlebot3.egg-info/PKG-INFO
+writing dependency_links to ../../build/control_turtlebot3/control_turtlebot3.egg-info/dependency_links.txt
+writing entry points to ../../build/control_turtlebot3/control_turtlebot3.egg-info/entry_points.txt
+writing requirements to ../../build/control_turtlebot3/control_turtlebot3.egg-info/requires.txt
+writing top-level names to ../../build/control_turtlebot3/control_turtlebot3.egg-info/top_level.txt
+reading manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+running build
+running build_py
+copying control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+copying control_turtlebot3/kill_robot.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+running install
+running install_lib
+copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/kill_robot.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/control.py to control.cpython-310.pyc
+byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/kill_robot.py to kill_robot.cpython-310.pyc
+running install_data
+copying launch/teleop_launch.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/share/control_turtlebot3/launch
+running install_egg_info
+removing '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/control_turtlebot3/control_turtlebot3.egg-info to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+Installing kill_robot script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+writing list of installed files to '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log'

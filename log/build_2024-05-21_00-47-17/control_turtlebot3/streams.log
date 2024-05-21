@@ -1,0 +1,25 @@
+[0.641s] Invoking command in '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/src/control_turtlebot3': PYTHONPATH=/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/prefix_override:/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build install --record /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log --single-version-externally-managed install_data
+[0.855s] running egg_info
+[0.856s] writing ../../build/control_turtlebot3/control_turtlebot3.egg-info/PKG-INFO
+[0.856s] writing dependency_links to ../../build/control_turtlebot3/control_turtlebot3.egg-info/dependency_links.txt
+[0.856s] writing entry points to ../../build/control_turtlebot3/control_turtlebot3.egg-info/entry_points.txt
+[0.856s] writing requirements to ../../build/control_turtlebot3/control_turtlebot3.egg-info/requires.txt
+[0.857s] writing top-level names to ../../build/control_turtlebot3/control_turtlebot3.egg-info/top_level.txt
+[0.859s] reading manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[0.860s] writing manifest file '../../build/control_turtlebot3/control_turtlebot3.egg-info/SOURCES.txt'
+[0.860s] running build
+[0.860s] running build_py
+[0.860s] copying control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3
+[0.860s] running install
+[0.861s] running install_lib
+[0.862s] copying /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build/lib/control_turtlebot3/control.py -> /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3
+[0.862s] byte-compiling /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3/control.py to control.cpython-310.pyc
+[0.863s] running install_data
+[0.863s] running install_egg_info
+[0.865s] removing '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3-0.0.0-py3.10.egg-info' (and everything under it)
+[0.865s] Copying ../../build/control_turtlebot3/control_turtlebot3.egg-info to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages/control_turtlebot3-0.0.0-py3.10.egg-info
+[0.866s] running install_scripts
+[0.884s] Installing control script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+[0.884s] Installing kill_robot script to /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/control_turtlebot3
+[0.884s] writing list of installed files to '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log'
+[0.912s] Invoked command in '/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/src/control_turtlebot3' returned '0': PYTHONPATH=/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/prefix_override:/home/bielle/Documentos/Github/Turtlebot3-Teleoperado/install/control_turtlebot3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_turtlebot3 build --build-base /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/build install --record /home/bielle/Documentos/Github/Turtlebot3-Teleoperado/build/control_turtlebot3/install.log --single-version-externally-managed install_data
